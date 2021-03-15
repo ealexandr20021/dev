@@ -26,7 +26,7 @@ class GenNumber {
                 }
             }
         }
-     //.....123  Collections.sort(ListNumber);
+     //.....12345  Collections.sort(ListNumber);
         return ListNumber;
     }
 }
