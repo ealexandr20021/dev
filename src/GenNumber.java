@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.util.Collections;
 
 /**
  * Created by root on 11.03.2021.
@@ -13,10 +14,10 @@ class GenNumber {
             for (LetterTwo letterTwo : LetterTwo.values()) {
                 for (int j = 0; j <= 10; j++) {
                     StringBuilder bil = new StringBuilder();
-                    bil.append(letterOne[i]);
-                    bil.append("-");
-                    bil.append(letterTwo.toString());
-                    bil.append("-");
+                    bil.append(letterOne[i])
+                    .append("-")
+                    .append(letterTwo.toString())
+                    .append("-")
                     bil.append(j);
                   //  bil.append("\n");
 //                   System.out.println(letterOne + "-" + letterTwo + "-" + i);
@@ -25,6 +26,7 @@ class GenNumber {
                 }
             }
         }
+        Collections.sort(ListNumber);
         return ListNumber;
     }
 }

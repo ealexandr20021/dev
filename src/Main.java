@@ -7,7 +7,7 @@ public class Main {
     public static void main(String[] args) {
 
         ArrayList<String> StringGenerateNumber;
-
+        
         GenNumber gen = new GenNumber();
         StringGenerateNumber = gen.getListNumber();
         for (int i=0; i<StringGenerateNumber.size(); i++) {
