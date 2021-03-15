@@ -18,7 +18,7 @@ class GenNumber {
                     .append("-")
                     .append(letterTwo.toString())
                     .append("-")
-                    bil.append(j);
+                    .append(j);
                   //  bil.append("\n");
 //                   System.out.println(letterOne + "-" + letterTwo + "-" + i);
                     ListNumber.add(bil.toString());
