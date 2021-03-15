@@ -26,7 +26,7 @@ class GenNumber {
                 }
             }
         }
-     //Tree2 Collections.sort(ListNumber);
+         Collections.sort(ListNumber);
         return ListNumber;
     }
 }
