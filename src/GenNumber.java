@@ -26,7 +26,7 @@ class GenNumber {
                 }
             }
         }
-     //.....123456789  Collections.sort(ListNumber);
+     //NewTree Collections.sort(ListNumber);
         return ListNumber;
     }
 }
