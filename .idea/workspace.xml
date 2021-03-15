@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list id="87c48d19-eeb9-4d2a-9e21-ad18913ae55d" name="Default" comment="TreeSet_to_String[]" />
-    <list default="true" id="90333b81-ff0e-4d49-a02a-7696f9126cb2" name="Rejected commit: Default" comment="Main">
+    <list default="true" id="90333b81-ff0e-4d49-a02a-7696f9126cb2" name="Rejected commit: Default" comment="Test_commit">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/GenNumber.java" afterPath="$PROJECT_DIR$/src/GenNumber.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Main.java" afterPath="$PROJECT_DIR$/src/Main.java" />
     </list>
     <ignored path="nomer.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,7 +26,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="GenNumber.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="GenNumber.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/GenNumber.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="425">
@@ -48,11 +48,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+            <state relative-caret-position="221">
+              <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -90,8 +90,8 @@
       <list>
         <option value="$PROJECT_DIR$/src/LetterTwo.java" />
         <option value="$PROJECT_DIR$/src/LetterOne.java" />
-        <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/GenNumber.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
       </list>
     </option>
   </component>
@@ -681,7 +681,7 @@
       <workItem from="1615831062012" duration="817000" />
       <workItem from="1615833900748" duration="309000" />
       <workItem from="1615834376682" duration="2437000" />
-      <workItem from="1615837263278" duration="670000" />
+      <workItem from="1615837263278" duration="729000" />
     </task>
     <task id="LOCAL-00001" summary="StringBuilder">
       <created>1615734394374</created>
@@ -774,11 +774,18 @@
       <option name="project" value="LOCAL" />
       <updated>1615837281471</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Test_commit">
+      <created>1615838325178</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1615838325178</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17803000" />
+    <option name="totallyTimeSpent" value="17862000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -857,7 +864,8 @@
     <MESSAGE value="NewTree" />
     <MESSAGE value="Test2" />
     <MESSAGE value="Main" />
-    <option name="LAST_COMMIT_MESSAGE" value="Main" />
+    <MESSAGE value="Test_commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test_commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1084,14 +1092,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/LetterOne.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -1107,6 +1107,14 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+          <folding />
         </state>
       </provider>
     </entry>
