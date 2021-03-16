@@ -5,5 +5,6 @@ public enum LetterOne {
     a,
     b,
     c,
-    d
+    d,
+    e
 }
